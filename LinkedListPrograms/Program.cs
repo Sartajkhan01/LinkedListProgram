@@ -23,7 +23,8 @@ namespace LinkedListPrograms
             linkedlist.AddNode(node3);
             linkedlist.InsertNode(node2, node3);
 
-            linkedlist.DeleteNodeAtFirst();
+            //linkedlist.DeleteNodeAtFirst();
+            linkedlist.DeleteNodeAtLast();
             linkedlist.Display();
         }
     }
