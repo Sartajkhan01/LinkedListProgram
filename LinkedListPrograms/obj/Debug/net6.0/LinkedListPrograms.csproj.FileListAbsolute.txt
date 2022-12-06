@@ -1,0 +1,15 @@
+C:\Users\Sartaj khan\source\repos\LinkedListPrograms\LinkedListPrograms\bin\Debug\net6.0\LinkedListPrograms.exe
+C:\Users\Sartaj khan\source\repos\LinkedListPrograms\LinkedListPrograms\bin\Debug\net6.0\LinkedListPrograms.deps.json
+C:\Users\Sartaj khan\source\repos\LinkedListPrograms\LinkedListPrograms\bin\Debug\net6.0\LinkedListPrograms.runtimeconfig.json
+C:\Users\Sartaj khan\source\repos\LinkedListPrograms\LinkedListPrograms\bin\Debug\net6.0\LinkedListPrograms.dll
+C:\Users\Sartaj khan\source\repos\LinkedListPrograms\LinkedListPrograms\bin\Debug\net6.0\LinkedListPrograms.pdb
+C:\Users\Sartaj khan\source\repos\LinkedListPrograms\LinkedListPrograms\obj\Debug\net6.0\LinkedListPrograms.csproj.AssemblyReference.cache
+C:\Users\Sartaj khan\source\repos\LinkedListPrograms\LinkedListPrograms\obj\Debug\net6.0\LinkedListPrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sartaj khan\source\repos\LinkedListPrograms\LinkedListPrograms\obj\Debug\net6.0\LinkedListPrograms.AssemblyInfoInputs.cache
+C:\Users\Sartaj khan\source\repos\LinkedListPrograms\LinkedListPrograms\obj\Debug\net6.0\LinkedListPrograms.AssemblyInfo.cs
+C:\Users\Sartaj khan\source\repos\LinkedListPrograms\LinkedListPrograms\obj\Debug\net6.0\LinkedListPrograms.csproj.CoreCompileInputs.cache
+C:\Users\Sartaj khan\source\repos\LinkedListPrograms\LinkedListPrograms\obj\Debug\net6.0\LinkedListPrograms.dll
+C:\Users\Sartaj khan\source\repos\LinkedListPrograms\LinkedListPrograms\obj\Debug\net6.0\refint\LinkedListPrograms.dll
+C:\Users\Sartaj khan\source\repos\LinkedListPrograms\LinkedListPrograms\obj\Debug\net6.0\LinkedListPrograms.pdb
+C:\Users\Sartaj khan\source\repos\LinkedListPrograms\LinkedListPrograms\obj\Debug\net6.0\LinkedListPrograms.genruntimeconfig.cache
+C:\Users\Sartaj khan\source\repos\LinkedListPrograms\LinkedListPrograms\obj\Debug\net6.0\ref\LinkedListPrograms.dll
